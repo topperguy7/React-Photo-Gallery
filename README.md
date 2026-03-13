@@ -41,3 +41,16 @@ API used:
 
 https://picsum.photos/v2/list
 <hr>
+
+📂 Project Structure
+
+src<br>
+ ├── components<br>
+ │   ├── useFetchPhotos.js<br>
+ │   └── favouritesReducer.js<br>
+ │<Br>
+ ├── App.jsx<Br>
+ ├── main.jsx<Br>
+ └── index.css<br>
+
+ <hr>
