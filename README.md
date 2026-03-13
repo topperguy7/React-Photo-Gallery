@@ -55,6 +55,11 @@ src<br>
 
  <hr>
 
+ ## 🖼️ Preview
+
+![App Screenshot](screenshot/Screenshot-1.png)
+<hr>
+
 📜 License
 
 This project is open source and available under the MIT License.
