@@ -14,3 +14,16 @@ Users can browse photos, search by author, and mark photos as favorites. Favorit
 <li>🎨 Responsive UI with Tailwind CSS</li>
 <li>⏳ Loading Spinner while fetching data</li>
 </ul>
+<hr>
+
+🧠 React Concepts Used
+
+This project demonstrates important React concepts:
+<ul>
+  <li>Custom Hooks (useFetchPhotos)</li>
+  <li>useReducer for managing favorites</li>
+  <li>useMemo for optimized filtering</li>
+  <li>useCallback for stable event handlers</li>
+  <li>LocalStorage persistence</li>
+</ul>
+<hr>
