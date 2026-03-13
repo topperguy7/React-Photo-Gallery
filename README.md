@@ -27,3 +27,17 @@ This project demonstrates important React concepts:
   <li>LocalStorage persistence</li>
 </ul>
 <hr>
+
+🛠️ Tech Stack
+
+<ul>
+  <li>React</li>
+  <li>Tailwind CSS</li>
+  <li>Javascript (ES6+)</li>
+  <li>Picsum Photo API</li>
+</ul>
+
+API used:
+
+https://picsum.photos/v2/list
+<hr>
